@@ -4,7 +4,7 @@
 
 Before using any resource in this repository, make sure to read CS50's Academic policy [here](https://cs50.harvard.edu/python/2022/honesty)
 
-## 
+## Table of Contents
 - [Problem Set 0](#problem-set-0)
 - [Problem Set 1](#problem-set-1)
 - [Problem Set 2](#problem-set-2)
