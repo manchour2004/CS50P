@@ -34,3 +34,13 @@ Before using any resource in this repository, make sure to read CS50's Academic 
 |[File Extensions](https://cs50.harvard.edu/python/2022/psets/1/extensions) |[Solution](https://github.com/joolaoye/CS50P/blob/main/extensions/extensions.py)|
 |[Math Interpreter](https://cs50.harvard.edu/python/2022/psets/1/interpreter) |[Solution](https://github.com/joolaoye/CS50P/blob/main/interpreter/interpreter.py)|
 |[Meal Time](https://cs50.harvard.edu/python/2022/psets/1/meal) |[Solution](https://github.com/joolaoye/CS50P/blob/main/meal/meal.py)|
+
+## Problem Set 2
+| Title | Solution | 
+| ---- | --------  | 
+|[camelCase](https://cs50.harvard.edu/python/2022/psets/2/camel) |[Solution](https://github.com/joolaoye/CS50P/blob/main/camel/camel.py)|
+|[Coke Machine](https://cs50.harvard.edu/python/2022/psets/2/coke) |[Solution](https://github.com/joolaoye/CS50P/blob/main/coke/coke.py)|
+|[Just setting up my twttr](https://cs50.harvard.edu/python/2022/psets/2/twttr) |[Solution](https://github.com/joolaoye/CS50P/blob/main/twttr/twttr.py)|
+|[Vanity Plates](https://cs50.harvard.edu/python/2022/psets/2/plates) |[Solution](https://github.com/joolaoye/CS50P/blob/main/plates/plates.py)|
+|[Nutrition Facts](https://cs50.harvard.edu/python/2022/psets/2/nutrition) |[Solution](https://github.com/joolaoye/CS50P/blob/main/nutrition/nutrition.py)|
+
